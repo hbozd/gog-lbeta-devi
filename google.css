@@ -1,0 +1,50 @@
+/***boşluklarısıfırlama***/
+*{
+ margin: 0px;
+ padding: 0px;
+}
+main,nav,footer{
+ width: 900px;
+ margin: auto;
+}
+
+#arama{
+ width: 898px;
+ height: 50px;
+ margin: auto;
+ background-color: rgb(221, 219, 219);
+}
+div,
+img
+{
+ text-align: center;
+}
+#card1{
+ width:292px;
+ height: 90px;
+ float: left;
+ background-color: rgb(91, 239, 239);
+ margin: 2px;
+ padding: 2px;
+ font-size: 16px;
+}
+#card2{
+ width:292px;
+ height: 90px;
+ float: left;
+ background-color: rgb(74, 178, 199);
+ margin: 2px;
+ padding: 2px;
+}
+#card3{
+ width:292px;
+ height: 90px;
+ float: left;
+ background-color: rgb(138, 193, 198);
+ margin: 2px;
+ padding: 2px;
+}
+#footer{
+ text-align: center;
+ font-size: 12px;
+}
